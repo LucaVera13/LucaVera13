@@ -4,14 +4,14 @@
 
 <h3> Sobre mi  </h3>
 
-<p>¡Hola! Soy un desarrollador Full Stack apasionado por la creación de proyectos completos y de alta calidad. Trabajo con tecnologías como NodeJS, JavaScript, React, Redux y SQL, entre otras.</p>
+<p>¡Hola! Soy un desarrollador Backend apasionado por la creación de proyectos. Trabajo con tecnologías como NodeJS, JavaScript, Java, Spring Boot y SQL.</p>
 
 
 <h2>Habilidades clave</h2>
 
 <ul>
   <li>Desarrollo Full Stack: experiencia tanto en el Front End como en el Back End.</li>
-  <li>Tecnologías dominantes: NodeJS, JavaScript, React, Redux, SQL.</li>
+  <li>Tecnologías dominantes: NodeJS, JavaScript, Java, SQL.</li>
   <li>Metodologías ágiles: capacidad para trabajar en equipos colaborativos.</li>
   <li>Aprendizaje continuo: comprometido en mantenerme al día con las últimas tendencias y herramientas.</li>
 </ul>
@@ -26,11 +26,9 @@
 const LucaVera13 = {
    pronouns: "he" | "him",
    code: {
-      languages: ["JavaScript"],
-      frontEnd: ["React", "Redux", "CSS modules"],
-      backEnd: ["NodeJs", "Express", "Sequalize", "Mongoose"],
-      databases: ["MongoDB", "PostgreSQL"],
-      inProgress: ["TypeScript"]
+      languages: ["JavaScript","Java"],
+      backEnd: ["NodeJs", "Express", "Spring Boot"],
+      databases: ["MongoDB", "PostgreSQL"]
    },
    contact:{
       email: "veraluuca@gmail.com"
